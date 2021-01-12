@@ -1,0 +1,88 @@
+body
+{
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    background-color:#fcf8ec;
+}
+
+h1
+{
+    color: black;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+}
+
+h2, h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #79a3b1;
+}
+
+p, a, td
+{
+    color: #456268;
+}
+
+.topbox
+{
+    background-color: #fcf8ec;
+    padding-top: 100px;
+}
+
+.developer
+{
+    text-decoration: underline;
+}
+
+.topcloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px
+}
+
+.bottomcloud
+{
+    position: absolute;
+    left: 300px;
+}
+
+.webdevicon
+{
+    height: 6%;
+    width: 6%;
+}
+
+div
+{
+    background-color: #fcf8ec;
+}
+
+hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+.skilltable
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link
+{
+    color: darkgreen;
+}
